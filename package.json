@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nitesh-Tyagi/ToDo_Node_Backend.git"
+    "url": "git+https://github.com/Roody23/TODO-Assignment-Backend.git"
   },
-  "author": "Nitesh Tyagi",
+  "author": "Rudra Partap Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nitesh-Tyagi/ToDo_Node_Backend/issues"
+    "url": "https://github.com/Roody23/TODO-Assignment-Backend/issues"
   },
-  "homepage": "https://github.com/Nitesh-Tyagi/ToDo_Node_Backend#readme",
+  "homepage": "https://github.com/Roody23/TODO-Assignment-Backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
