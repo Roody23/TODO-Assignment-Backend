@@ -1,0 +1,27 @@
+{
+  "name": "todo_node_backend",
+  "version": "1.0.0",
+  "description": "todo using NodeJS backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitesh-Tyagi/ToDo_Node_Backend.git"
+  },
+  "author": "Nitesh Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitesh-Tyagi/ToDo_Node_Backend/issues"
+  },
+  "homepage": "https://github.com/Nitesh-Tyagi/ToDo_Node_Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0"
+  }
+}
